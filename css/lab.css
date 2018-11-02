@@ -1,0 +1,58 @@
+/*Bootstrap fixes*/
+
+.adapt-fixed-top {
+   margin-top: 78px;
+}
+
+.carousel-item > img {
+   margin:auto;
+   width:100%;
+}
+
+.dropdown-menu-lab {
+  background-color: #ccc;
+}
+
+.dropdown-item-lab:hover, .dropdown-item-lab:focus {
+  color: #fff;
+  text-decoration: none;
+  background-color: #ccc;
+}
+
+.dropdown-item-lab.active, .dropdown-item-lab:active {
+  color: #fff;
+  text-decoration: none;
+  background-color: #ccc;
+}
+
+/*Website specific styles*/
+
+.main-paragraph h1, 
+.main-paragraph h2, 
+.main-paragraph h3, 
+.main-paragraph h4, 
+.main-paragraph h5, 
+.main-paragraph h6 {
+   text-align: center;
+} 
+
+.middle-image {
+   margin:auto;
+   width:100%;
+}
+
+.news-side > p > img {
+   float:left;
+   margin-right: 10px;
+   margin-bottom: 16px;
+}
+
+.news-side > blockquote > p {
+   clear: both;
+}
+
+.title {
+   margin-top: 10px;
+   text-align: center;
+   border-bottom: 1px solid #eaecef;
+}
